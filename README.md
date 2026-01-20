@@ -73,7 +73,7 @@ I’m currently **seeking internship opportunities** where I can:
 
 ---
 
-### 🧠 **NEXUS**
+### 🧠 **neXus**
 **Crypto Market Intelligence System**
 
 - Filters high-quality trade opportunities
