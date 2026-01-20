@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-🚀 Undergraduate | Cybersecurity & Systems Enthusiast | Aspiring Software Engineer
+🚀 Undergraduate | Cybersecurity & Ethical Hacking Enthusiast 
 </h3>
 
 <p align="center">
