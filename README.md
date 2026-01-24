@@ -1,4 +1,4 @@
-# ⚡ Nipun Darsh | Cybersecurity • Systems • Future Engineering
+#  Nipun Darsh | Cybersecurity • Systems • Future Engineering
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Explorer;Linux+%7C+Networking+%7C+Automation;Applied+Physics+Mindset;Build.+Break.+Secure.+Repeat." />
