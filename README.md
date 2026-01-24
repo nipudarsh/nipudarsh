@@ -20,7 +20,7 @@ Every repository is an experiment.
 
 ---
 
-## 🛠️ Tech Arsenal (Tools I Actually Use)
+## 🛠️ Tech Arsenal 
 
 <div align="center">
 
