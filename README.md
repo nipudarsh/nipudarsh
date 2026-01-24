@@ -20,46 +20,38 @@ Every repository is an experiment.
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Arsenal (Tools I Actually Use)
 
-### Programming & Scripting
+<div align="center">
 
-* Python • C++ • C (Arduino)
-* Bash / Shell Automation
-* HTML5 • CSS3
+### Languages & Scripting
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,bash,html,css" />
 
 ### Operating Systems
 
-* Windows XP → 11
-* Ubuntu Linux
-* Kali Linux • Kali Purple
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows" />
 
-### Tooling & Workflow
+### Security & Networking Tools
 
-* Git & GitHub (CLI-first, clean history)
-* Microsoft Office (Word, Excel, PowerPoint, Access, Publisher)
+<img src="https://skillicons.dev/icons?i=wireshark,nmap" />
+
+### Platforms & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,arduino" />
+
+</div>
 
 ---
 
-## 📊 Live GitHub Signal
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nipundarshcyber&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nipundarshcyber&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipundarshcyber&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<!-- No profile views / followers / activity cards by request -->
 
 ---
 
 ## 🔐 Cybersecurity Focus
 
-* Network fundamentals & packet analysis
+* Network fundamentals & packet analysis (**Wireshark**)
+* Network scanning & reconnaissance (**Nmap**)
 * OWASP Top 10 vulnerabilities
 * Blue Team detection & monitoring
 * Red Team reconnaissance logic
@@ -69,28 +61,123 @@ Security is **engineering discipline**, not fear.
 
 ---
 
-## 🏅 Certifications & Badges
+## 🏅 Live Badges & Credentials (Visual)
 
-### Credly
+<div align="center">
 
-* Linux Essentials
-* Operating Systems Basics
-* Introduction to Cybersecurity
+<!-- Quick Skill Signals (shields.io) -->
 
-### TryHackMe (Live)
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-00f7ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mindset-Applied%20Physics-0a1cff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Workflow-CLI%20%2B%20Automation-111827?style=for-the-badge" />
 
-```html
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5938684" style="border:none; width:100%; height:160px;"></iframe>
-```
+<br/>
 
-**Highlights**
+<img src="https://img.shields.io/badge/Tools-Wireshark-0ea5e9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tools-Nmap-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Build-Telegram%20Bots-2AABEE?style=for-the-badge" />
 
-* 30 / 7 / 3 Day Streaks
-* Silver League — 1st Place
-* Bronze League — 1st Place
-* Network Hog (Traffic Analysis)
-* OWASP Top 10
-* Security Engineering Foundations
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Credly Badge Images (clickable) -->
+
+<a href="https://www.credly.com/badges/d5ba3622-8faa-4581-bd0e-554c16267699/public_url" target="_blank">
+  <img src="https://images.credly.com/size/110x110/images/70d4bff5-3a9c-4c63-9c2b-6f5e5f5e2a8c/Linux_Essentials.png" />
+</a>
+<a href="https://www.credly.com/badges/0413059d-8aff-43e1-8504-219e1585855f/public_url" target="_blank">
+  <img src="https://images.credly.com/size/110x110/images/0f5c7c2c-93d3-4e93-8c6f-4c0b2f8cfe0f/Operating_Systems_Basics.png" />
+</a>
+<a href="https://www.credly.com/badges/4ba09fe9-ab4c-49e8-bff3-00226987ba0b/public_url" target="_blank">
+  <img src="https://images.credly.com/size/110x110/images/6d4e0c92-38b2-4cbe-9b5b-1c0f6f3d9f3e/Introduction_to_Cybersecurity.png" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- TryHackMe Live Badge (image + clickable link) -->
+
+<a href="https://tryhackme.com/p/5938684" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/5938684.png" alt="TryHackMe Live Badge" />
+</a>
+
+</div>
+
+---
+
+## 🚀 Signature Projects (My Favorites)
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 neXus
+
+**Regime-aware market intelligence** + automation-first trading research.
+
+<img src="https://img.shields.io/badge/Domain-Trading%20Systems-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Style-Research%20%2B%20Automation-111827?style=flat-square" />
+
+---
+
+### 🛡️ KONGUARD
+
+Security auditing + **auto-reporting** (practical, repeatable security checks).
+
+<img src="https://img.shields.io/badge/Blue%20Team-Auditing-0ea5e9?style=flat-square" />
+<img src="https://img.shields.io/badge/Output-Reports-0ea5e9?style=flat-square" />
+
+---
+
+### 👁️ SHONA
+
+Local-first **system observer** for behavioral/security anomalies.
+
+<img src="https://img.shields.io/badge/Idea-Local--First-22c55e?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Detection-22c55e?style=flat-square" />
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Trend First Lanka
+
+Sri Lanka–focused **trend intelligence** (early signals > late virals).
+
+<img src="https://img.shields.io/badge/Region-Sri%20Lanka-00f7ff?style=flat-square" />
+<img src="https://img.shields.io/badge/Goal-Early%20Signals-00f7ff?style=flat-square" />
+
+---
+
+### 🤖 Telegram Bot Builder
+
+Bots for **alerts, monitoring, content systems**, and automation workflows.
+
+<img src="https://img.shields.io/badge/Platform-Telegram-2AABEE?style=flat-square" />
+<img src="https://img.shields.io/badge/Build-Automation-2AABEE?style=flat-square" />
+
+---
+
+### 🧰 Tools I Use (Real)
+
+* **Wireshark** (traffic analysis)
+* **Nmap** (scanning / recon)
+
+<img src="https://img.shields.io/badge/Net-Wireshark-0ea5e9?style=flat-square" />
+<img src="https://img.shields.io/badge/Recon-Nmap-22c55e?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
