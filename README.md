@@ -1,144 +1,136 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nipun%20Darshana&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<h3 align="center">
-🚀 Undergraduate | Cybersecurity & Ethical Hacking Enthusiast 
-</h3>
+# ⚡ Nipun Darsh | Cybersecurity • Systems • Future Engineering
 
 <p align="center">
-  <a href="https://github.com/nipudarsh">
-    <img src="https://komarev.com/ghpvc/?username=nipudarsh&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-  <a href="https://tryhackme.com/p/LokuPutha">
-    <img src="https://img.shields.io/badge/TryHackMe-Active-brightgreen?logo=tryhackme" />
-  </a>
-</p>
-
----
-
-## 👋 About Me
-
-I’m an **undergraduate student** with a strong interest in **cybersecurity, system engineering, automation, and applied software development**.  
-I enjoy building **real-world tools**, not just academic projects — focusing on **security, performance, and usability**.
-
-I’m currently **seeking internship opportunities** where I can:
-- Apply practical skills
-- Learn from real engineering environments
-- Contribute meaningfully to production systems
-
----
-
-## 🎯 Current Focus
-
-- 🔐 Cybersecurity & system monitoring
-- 🧠 Automation & scripting (PowerShell, Bash)
-- 🛠️ Building practical tools with real-world value
-- 📚 Continuous learning through hands-on platforms
-
----
-
-## 🧠 Technical Skills
-
-### 💻 Languages & Scripting
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,js" />
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,docker" />
-</p>
-
-### 🔐 Security & Networking
-- OWASP Top 10 (understanding & mitigation)
-- Network traffic analysis
-- System health & integrity monitoring
-- Basic blue-team methodologies
-
----
-
-## 🚀 Featured Projects
-
-### 🦍 **KONGUARD**
-**System Black Box for Windows**
-
-- One-click system health & security scanner
-- Tracks hardware, software, and security changes
-- Generates human-readable reports
-- Designed for **non-technical users**
-
-🔗 Repo: https://github.com/nipudarsh/KONGUARD
-
----
-
-### 🧠 **neXus**
-**Crypto Market Intelligence System**
-
-- Filters high-quality trade opportunities
-- Multi-timeframe & trader-type aware
-- Explainable signal logic (not signal spam)
-
-🔗 Repo: *Private (in active development)*
-
----
-
-### 🧩 **Bash Utility Tools**
-**Automation & System Utilities**
-
-- File system helpers
-- Task automation scripts
-- Clean, reusable CLI tools
-
-🔗 Repo: https://github.com/nipudarsh/bash-utility-tools
-
----
-
-## 🏆 Achievements & Learning
-
-<p>
-  <img src="https://img.shields.io/badge/TryHackMe-30%20Day%20Streak-success?logo=tryhackme" />
-  <img src="https://img.shields.io/badge/OWASP-Top%2010-blue" />
-  <img src="https://img.shields.io/badge/GitHub-Pull%20Shark-blueviolet" />
-</p>
-
-- Consistent hands-on learning
-- Practical cybersecurity milestones
-- Active GitHub contributor
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nipudarsh&show_icons=true&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Explorer;Linux+%7C+Networking+%7C+Automation;Applied+Physics+Mindset;Build.+Break.+Secure.+Repeat." />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipudarsh&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,html,css,linux,git,github,arduino" />
 </p>
 
 ---
 
-## 📫 Contact & Links
+## 🧠 Identity (Not a CV)
 
-- 📧 Email: **nipundarsh@gmail.com**
-- 🌐 GitHub: https://github.com/nipudarsh
-- 🧠 TryHackMe: https://tryhackme.com/p/LokuPutha
+I work at the edge where **physics-level thinking meets cybersecurity reality**.
+I don’t just learn tools — I study **systems**, how they fail, and how to harden them.
+
+This GitHub is a **live laboratory**.
+Every repository is an experiment.
 
 ---
 
-## 🤝 Internship Availability
+## 🛠️ Tech Arsenal
 
-✅ Open to **Software Engineering / Cybersecurity Internships**  
-✅ Willing to learn, adapt, and contribute  
-✅ Strong work ethic with hands-on mindset  
+### Programming & Scripting
 
-> *I believe good engineers are built by solving real problems — one system at a time.*
+* Python • C++ • C (Arduino)
+* Bash / Shell Automation
+* HTML5 • CSS3
+
+### Operating Systems
+
+* Windows XP → 11
+* Ubuntu Linux
+* Kali Linux • Kali Purple
+
+### Tooling & Workflow
+
+* Git & GitHub (CLI-first, clean history)
+* Microsoft Office (Word, Excel, PowerPoint, Access, Publisher)
+
+---
+
+## 📊 Live GitHub Signal
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nipundarshcyber&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nipundarshcyber&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipundarshcyber&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔐 Cybersecurity Focus
+
+* Network fundamentals & packet analysis
+* OWASP Top 10 vulnerabilities
+* Blue Team detection & monitoring
+* Red Team reconnaissance logic
+* Linux internals & system security
+
+Security is **engineering discipline**, not fear.
+
+---
+
+## 🏅 Certifications & Badges
+
+### Credly
+
+* Linux Essentials
+* Operating Systems Basics
+* Introduction to Cybersecurity
+
+### TryHackMe (Live)
+
+```html
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5938684" style="border:none; width:100%; height:160px;"></iframe>
+```
+
+**Highlights**
+
+* 30 / 7 / 3 Day Streaks
+* Silver League — 1st Place
+* Bronze League — 1st Place
+* Network Hog (Traffic Analysis)
+* OWASP Top 10
+* Security Engineering Foundations
+
+---
+
+## 🧪 Knowledge Output
+
+📝 Blogs
+
+* 🇱🇰 Sinhala Tech & Innovation
+  [https://innovatewithtechsin.blogspot.com/](https://innovatewithtechsin.blogspot.com/)
+* 🌍 English Tech & Cybersecurity
+  [https://innovatewithtecheng.blogspot.com/](https://innovatewithtecheng.blogspot.com/)
+
+I believe **knowledge unused decays**. Teaching is part of learning.
+
+---
+
+## 🎓 Academic Core
+
+**B.Sc. Applied Physics & Electronics** *(Undergraduate)*
+Trincomalee Campus — Eastern University, Sri Lanka
+
+Physics trained me to think precisely.
+Cybersecurity taught me where precision breaks.
+
+---
+
+## 🧭 Philosophy
+
+* Learn deeply
+* Build relentlessly
+* Break ethically
+* Defend intelligently
+* Document everything
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0a1cff&height=120&section=footer" />
+</p>
+
+<p align="center">
+<strong>The future belongs to those who understand systems — not just tools.</strong>
 </p>
