@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 Identity (Not a CV)
+## 🧠 Identity 
 
 I work at the edge where **physics-level thinking meets cybersecurity reality**.
 I don’t just learn tools — I study **systems**, how they fail, and how to harden them.
@@ -201,16 +201,6 @@ Trincomalee Campus — Eastern University, Sri Lanka
 
 Physics trained me to think precisely.
 Cybersecurity taught me where precision breaks.
-
----
-
-## 🧭 Philosophy
-
-* Learn deeply
-* Build relentlessly
-* Break ethically
-* Defend intelligently
-* Document everything
 
 ---
 
