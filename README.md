@@ -164,15 +164,6 @@ Bots for **alerts, monitoring, content systems**, and automation workflows.
 <img src="https://img.shields.io/badge/Build-Automation-2AABEE?style=flat-square" />
 
 ---
-
-### 🧰 Tools I Use (Real)
-
-* **Wireshark** (traffic analysis)
-* **Nmap** (scanning / recon)
-
-<img src="https://img.shields.io/badge/Net-Wireshark-0ea5e9?style=flat-square" />
-<img src="https://img.shields.io/badge/Recon-Nmap-22c55e?style=flat-square" />
-
 </td>
 </tr>
 </table>
