@@ -83,24 +83,6 @@ Security is **engineering discipline**, not fear.
 
 <div align="center">
 
-<!-- Credly Badge Images (clickable) -->
-
-<a href="https://www.credly.com/badges/d5ba3622-8faa-4581-bd0e-554c16267699/public_url" target="_blank">
-  <img src="https://images.credly.com/size/110x110/images/70d4bff5-3a9c-4c63-9c2b-6f5e5f5e2a8c/Linux_Essentials.png" />
-</a>
-<a href="https://www.credly.com/badges/0413059d-8aff-43e1-8504-219e1585855f/public_url" target="_blank">
-  <img src="https://images.credly.com/size/110x110/images/0f5c7c2c-93d3-4e93-8c6f-4c0b2f8cfe0f/Operating_Systems_Basics.png" />
-</a>
-<a href="https://www.credly.com/badges/4ba09fe9-ab4c-49e8-bff3-00226987ba0b/public_url" target="_blank">
-  <img src="https://images.credly.com/size/110x110/images/6d4e0c92-38b2-4cbe-9b5b-1c0f6f3d9f3e/Introduction_to_Cybersecurity.png" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <!-- TryHackMe Live Badge (image + clickable link) -->
 
 <a href="https://tryhackme.com/p/5938684" target="_blank">
