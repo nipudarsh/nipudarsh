@@ -1,179 +1,136 @@
-#  Nipun Darsh | Cybersecurity • Systems • Future Engineering
+# <p align="center"> Nipun Darshana  </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Explorer;Linux+%7C+Networking+%7C+Automation;Applied+Physics+Mindset;Build.+Break.+Secure.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Explorer+from+Sri+Lanka;Systems+Thinking+%7C+Automation+%7C+Engineering;Linux+%7C+Networking+%7C+Windows+Internals;Build.+Break.+Secure.+Repeat." />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,html,css,linux,git,github,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,powershell,cpp,c,bash,linux,windows,git,github,arduino" />
 </p>
 
 ---
 
-## 🧠 Identity 
+## 🧠 Identity
 
-I work at the edge where **physics-level thinking meets cybersecurity reality**.
-I don’t just learn tools — I study **systems**, how they fail, and how to harden them.
+I operate at the intersection of **Applied Physics, Systems Engineering, and Cybersecurity**.
 
-This GitHub is a **live laboratory**.
-Every repository is an experiment.
+I don’t chase tools.  
+I analyze **systems**.
+
+How they behave.  
+How they fail.  
+How they can be hardened.
 
 ---
 
-## 🛠️ Tech Arsenal 
+## 🔍 Current Focus (2026)
 
-<div align="center">
+- Windows system diagnostics & internal monitoring  
+- Blue Team detection logic & anomaly awareness  
+- Linux internals & system-level security  
+- Offline-first security tooling  
+- Automation for IT support workflows  
+- Embedded systems + IoT security awareness  
 
-### Languages & Scripting
+Security is not panic.  
+Security is disciplined engineering.
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,bash,html,css" />
+---
 
-### Operating Systems
+## 🛠️ Technical Stack
+
+### 💻 Languages & Scripting
+
+<img src="https://skillicons.dev/icons?i=python,powershell,cpp,c,bash,html,css" />
+
+### 🖥 Operating Systems
 
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows" />
 
-### Security & Networking Tools
+### 🌐 Networking & Security Tools
 
 <img src="https://skillicons.dev/icons?i=wireshark,nmap" />
 
-### Platforms & Workflow
+### ⚙ Platforms & Engineering
 
-<img src="https://skillicons.dev/icons?i=git,github,arduino" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,arduino,fastapi" />
 
 ---
 
-<!-- No profile views / followers / activity cards by request -->
+## 🔐 Cybersecurity Orientation
+
+- Network traffic analysis (Wireshark, PCAP inspection)
+- Enumeration & scanning logic (Nmap methodology)
+- Windows internals monitoring (registry, services, scheduled tasks)
+- Blue Team fundamentals (baseline vs anomaly detection)
+- Red Team reconnaissance theory
+- Linux system security principles
+- OWASP Top 10 awareness
+
+I study both attacker logic and defensive architecture.
 
 ---
 
-## 🔐 Cybersecurity Focus
+## 📡 What I Build
 
-* Network fundamentals & packet analysis (**Wireshark**)
-* Network scanning & reconnaissance (**Nmap**)
-* OWASP Top 10 vulnerabilities
-* Blue Team detection & monitoring
-* Red Team reconnaissance logic
-* Linux internals & system security
+- 🛡 Offline Windows diagnostic tools  
+- 👁 Local system monitoring assistants  
+- 📦 Secure LAN-based file transfer utilities  
+- 🤖 Automation-focused Telegram bots  
+- 🔌 Arduino & IoT security prototypes  
+- 📊 Data & trend analysis experiments  
 
-Security is **engineering discipline**, not fear.
-
----
-
-## 🏅 Live Badges & Credentials (Visual)
-
-<div align="center">
-
-<!-- Quick Skill Signals (shields.io) -->
-
-<img src="https://img.shields.io/badge/Focus-Cybersecurity-00f7ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Mindset-Applied%20Physics-0a1cff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Workflow-CLI%20%2B%20Automation-111827?style=for-the-badge" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Tools-Wireshark-0ea5e9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Tools-Nmap-22c55e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Build-Telegram%20Bots-2AABEE?style=for-the-badge" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- TryHackMe Live Badge (image + clickable link) -->
-
-<a href="https://tryhackme.com/p/5938684" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/5938684.png" alt="TryHackMe Live Badge" />
-</a>
-
-</div>
+Everything is practical.  
+Everything solves a real constraint.
 
 ---
 
-## 🚀 Signature Projects (My Favorites)
+## 🎓 Academic Foundation
 
-<div align="center">
+**B.Sc. Applied Physics & Electronics (Undergraduate)**  
+Eastern University, Sri Lanka  
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 neXus
-
-**Regime-aware market intelligence** + automation-first trading research.
-
-<img src="https://img.shields.io/badge/Domain-Trading%20Systems-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Style-Research%20%2B%20Automation-111827?style=flat-square" />
+Physics trained precision.  
+Electronics trained logic.  
+Cybersecurity applies both under pressure.
 
 ---
 
-### 🛡️ KONGUARD
+## 🏅 Certifications & Learning Signals
 
-Security auditing + **auto-reporting** (practical, repeatable security checks).
+- Linux Essentials – Cisco  
+- Operating Systems Basics – Cisco  
+- Introduction to Cybersecurity – Cisco  
+- Network Enumeration with Nmap – Hack The Box  
+- Introduction to Network Analysis – Security Blue Team  
+- Data Fundamentals – IBM  
 
-<img src="https://img.shields.io/badge/Blue%20Team-Auditing-0ea5e9?style=flat-square" />
-<img src="https://img.shields.io/badge/Output-Reports-0ea5e9?style=flat-square" />
-
----
-
-### 👁️ SHONA
-
-Local-first **system observer** for behavioral/security anomalies.
-
-<img src="https://img.shields.io/badge/Idea-Local--First-22c55e?style=flat-square" />
-<img src="https://img.shields.io/badge/Focus-Detection-22c55e?style=flat-square" />
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 Trend First Lanka
-
-Sri Lanka–focused **trend intelligence** (early signals > late virals).
-
-<img src="https://img.shields.io/badge/Region-Sri%20Lanka-00f7ff?style=flat-square" />
-<img src="https://img.shields.io/badge/Goal-Early%20Signals-00f7ff?style=flat-square" />
-
----
-
-### 🤖 Telegram Bot Builder
-
-Bots for **alerts, monitoring, content systems**, and automation workflows.
-
-<img src="https://img.shields.io/badge/Platform-Telegram-2AABEE?style=flat-square" />
-<img src="https://img.shields.io/badge/Build-Automation-2AABEE?style=flat-square" />
-
----
-</td>
-</tr>
-</table>
-
-</div>
+Continuous learning > Static credentials.
 
 ---
 
 ## 🧪 Knowledge Output
 
-📝 Blogs
+📝 Writing & Technical Exploration
 
-* 🇱🇰 Sinhala Tech & Innovation
-  [https://innovatewithtechsin.blogspot.com/](https://innovatewithtechsin.blogspot.com/)
-* 🌍 English Tech & Cybersecurity
-  [https://innovatewithtecheng.blogspot.com/](https://innovatewithtecheng.blogspot.com/)
+🇱🇰 Sinhala Tech Blog  
+https://innovatewithtechsin.blogspot.com/
 
-I believe **knowledge unused decays**. Teaching is part of learning.
+🌍 English Tech & Cybersecurity Blog  
+https://innovatewithtecheng.blogspot.com/
+
+I document what I learn.  
+Teaching sharpens thinking.
 
 ---
 
-## 🎓 Academic Core
+## 🌍 Based in Sri Lanka. Building for Anywhere.
 
-**B.Sc. Applied Physics & Electronics** *(Undergraduate)*
-Trincomalee Campus — Eastern University, Sri Lanka
+Technology has no geography.  
+Discipline does.
 
-Physics trained me to think precisely.
-Cybersecurity taught me where precision breaks.
+Sri Lanka is where I operate from.  
+Systems engineering is where I operate in.
 
 ---
 
@@ -182,5 +139,5 @@ Cybersecurity taught me where precision breaks.
 </p>
 
 <p align="center">
-<strong>The future belongs to those who understand systems — not just tools.</strong>
+<strong>Understand systems. Engineer resilience. Build responsibly.</strong>
 </p>
